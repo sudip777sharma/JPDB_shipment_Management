@@ -22,8 +22,8 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/sudip777sharma/JPDB_shipment_Management/jpdb_dashborad.jpg)
+![Dashboard](https://github.com/sudip777sharma/JPDB_shipment_Management/blob/main/jpdb_dashborad.jpg)
 
-![Index Page](https://github.com/sudip777sharma/JPDB_shipment_Management/jpdb_page.jpg)
+![Index Page](https://github.com/sudip777sharma/JPDB_shipment_Management/blob/main/jpdb_page.jpg)
 
-![Visualize](https://github.com/sudip777sharma/JPDB_shipment_Management/jpdb_delivery.jpg)
+![Visualize](https://github.com/sudip777sharma/JPDB_shipment_Management/blob/main/jpdb_delivery.jpg)
